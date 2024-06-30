@@ -4,7 +4,7 @@ Shutdown your machine remotely on your local network.
 ##### .NET Cross Platform.
 - Auto ShutOff if no reply from router for 10secs.
 
-## Moving to an IOT based soon, below will be added.
+### Moving to an IOT based soon, below will be added.
 - Endpoint to cancel shutdown.
 - Endpoint to initiate shutdown.
 
