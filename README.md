@@ -8,5 +8,5 @@ Shutdown your machine remotely on your local network.
 - Endpoint to cancel shutdown.
 - Endpoint to initiate shutdown.
 
-## Why this is not just a script?
+### Why this is not just a script?
 It is better to have a managed solution that works across OSs & devices and is dockerized for quick deployment.
